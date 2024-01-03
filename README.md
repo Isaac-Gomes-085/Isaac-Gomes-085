@@ -1,4 +1,4 @@
-## Olá! Eu sou Isaac Gomes-085!
+## Olá! Eu sou Isaac Gomes-085 conheça meus projetos!
 
 <strong> - 🔭 Estou a procura de aportunidades! </strong>
 </br>
