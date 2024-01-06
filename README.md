@@ -1,4 +1,4 @@
-## Olá! Eu sou Isaac Gomes-085 conheça meus projetos!
+## Olá! Eu sou Isaac Gomes-085 sou desenvolvedor Full stack!
 
 <strong> - 🔭 Estou a procura de aportunidades! </strong>
 </br>
