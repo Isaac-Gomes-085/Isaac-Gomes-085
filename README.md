@@ -2,7 +2,7 @@
 
 <strong> - 🔭 Estou a procura de aportunidades! </strong>
 </br>
-<strong>- 🌱 Atualmente estou estudando: REACT NATIVE.</strong>
+<strong>- 🌱 Atualmente estou estudando: Graduando Analise e Desenvolvimento de Sistemas(ADS).</strong>
 </br>
 <strong>- 📫 Whatsapp fale comigo: (85) 9.9779-1292</strong>
 </br>
