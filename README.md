@@ -11,7 +11,7 @@
 
 <div style="box_shadow: 10px solid black">
   <img height='200em' src="https://github-readme-stats.vercel.app/api?username=Isaac-Gomes-085&show_icons=true&theme=merko" />
-  <img align='right' height='200' alt='gif' src='https://media.discordapp.net/attachments/1070531856757440533/1190061993038725220/download20231204192241.png?ex=65a06e99&is=658df999&hm=47ade6b0c6268939289ba9156a824caa24843f886425f2e5014cbe4a9e79713d&=&format=webp&quality=lossless' />
+  <!-- <img align='right' height='200' alt='gif' src='https://camo.githubusercontent.com/' /> -->
 </div>
 
 ##
