@@ -1,6 +1,6 @@
 ## Olá! Eu sou Isaac Gomes-085 sou desenvolvedor Full stack!
 
-<strong> - 🔭 Estou a procura de aportunidades! </strong>
+<strong> - 🔭 Estou atualmente trabalhando na empresa SP Combustíveis </strong>
 </br>
 <strong>- 🌱 Atualmente estou estudando: Graduando Analise e Desenvolvimento de Sistemas(ADS).</strong>
 </br>
