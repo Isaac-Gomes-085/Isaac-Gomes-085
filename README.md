@@ -16,16 +16,16 @@
 
 ##
 
-<div>
-  <img align='center' height='80' width='60' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg' alt='Icon-HTML'/>
-  <img align='center' height='80' width='60' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg' alt='Icon-CSS'/>
-  <img align='center' height='80' width='60' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg' alt='Icon-JS'/>
-  <img align='center' height='80' width='60' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg' alt='Icon-REACT'/>
-  <img align='center' height='80' width='60' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg' alt='Icon-NODE.JS'/>
-  <img align='center' height='80' width='60' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg' alt='Icon-PYTHON'/>
-  <img align='center' height='80' width='60' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg' alt='Icon-CSHAP'/>
-  <img align='center' height='80' width='60' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg' alt='Icon-UNITY'/>
-  <img align='center' height='80' width='60' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg' alt='Icon-MYSQL'/>
+<div style="display: flex; flexDirection: row;">
+  <img height='80' width='60' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg' alt='Icon-HTML'/>
+  <img height='80' width='60' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg' alt='Icon-CSS'/>
+  <img height='80' width='60' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg' alt='Icon-JS'/>
+  <img height='80' width='60' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg' alt='Icon-REACT'/>
+  <img height='80' width='60' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg' alt='Icon-NODE.JS'/>
+  <img height='80' width='60' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg' alt='Icon-PYTHON'/>
+  <img height='80' width='60' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg' alt='Icon-CSHAP'/>
+  <img height='80' width='60' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg' alt='Icon-UNITY'/>
+  <img height='80' width='60' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg' alt='Icon-MYSQL'/>
 </div>
 
 ##
